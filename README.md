@@ -113,6 +113,24 @@
 ___
 
 
+
 <div align="center">
 :seedling: I’m currently learn python
 </div>
+
+
+
+---
+---
+
+## **Languages**
+
+- Spanish : Native
+- English : Intermediate
+- Italian : Basic
+- Portuguese : Basic
+---
+
+## My Proyects
+
+Visit my [repository](https://github.com/leoneldagostino?tab=repositories 'My-repostory') :briefcase:
