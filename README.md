@@ -1,21 +1,27 @@
 # Print(":wave:Hi there, I'm <a href="https://www.linkedin.com/in/leonel-eloy-dagostino/" target="_blank">Leonel</a>"):smiley:
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 **Python Developer** :snake:
 
 **Programming student at National University of Tecnology(UTN)**
 
 **Developer at CEGID**
 
----
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### :mag:Where to find me:
 
-* [Linkedin](https://www.linkedin.com/in/leonel-eloy-dagostino/ 'my-linkedin') ![logo_linkedin](assets/linkedin-logo.png)
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">Where to contact me:
+<a href="https://linkedin.com/in/leonel-eloy-dagostino" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  leonel D'agostino-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+<a href="mailto:leeoneldagos99@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  leeoneldagos99@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
 
----
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b><Strong>Skills and tools:</b>
 
 <div align="center" style="display: inline_block">
     <h3><Strong>Skills and tools:</h3>
@@ -110,8 +116,7 @@
     </p>
 </div>
 
-___
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 <div align="center">
@@ -119,9 +124,8 @@ ___
 </div>
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
----
----
 
 ## **Languages**
 
@@ -129,7 +133,9 @@ ___
 - English : Intermediate
 - Italian : Basic
 - Portuguese : Basic
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 ## My Proyects
 
