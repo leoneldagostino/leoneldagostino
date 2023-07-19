@@ -1,4 +1,4 @@
-# Print(":wave:Hi there, I'm <a href="https://www.linkedin.com/in/leonel-eloy-dagostino/" target="_blank">Leonel</a>"):smiley:
+# Print("<img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hi there, I'm <a href="https://www.linkedin.com/in/leonel-eloy-dagostino/" target="_blank">Leonel</a>"):smiley:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -127,7 +127,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-## **Languages**
+## :speech_balloon: **Languages**
 
 - Spanish : Native
 - English : Intermediate
@@ -137,6 +137,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-## My Proyects
+## <img src="https://www.emojiall.com/images/240/skype/1f468-200d-1f4bb.png" width="45px"> My Proyects
 
 Visit my [repository](https://github.com/leoneldagostino?tab=repositories 'My-repostory') :briefcase:
