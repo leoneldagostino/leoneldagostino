@@ -120,7 +120,7 @@
 
 
 <div align="center">
-:seedling: I’m currently learn python
+:seedling: I’m currently learning python
 </div>
 
 
